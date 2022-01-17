@@ -1,25 +1,30 @@
 [
   {
+    "id": "1",
     "Name": "Ryder Hayes",
     "Email": "ryder.hayes@music.com",
     "Password": "ryder"
   },
   {
+    "id": "2",
     "Name": "Sharmin Webber",
     "Email": "sharmin.webber@music.com",
     "Password": "sharmin"
   },
   {
+    "id": "3",
     "Name": "Katlyn Hicks",
     "Email": "katlyn.hicks@music.com",
     "Password": "katyln"
   },
   {
+    "id": "4",
     "Name": "Kingston Gordon",
     "Email": "kingston.gordon@music.com",
     "Password": "kingston"
   },
   {
+    "id": "5",
     "Name": "Kairon Easton",
     "Email": "kairon.easton@music.com",
     "Password": "kairon"
